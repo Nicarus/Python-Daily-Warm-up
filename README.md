@@ -1,3 +1,1 @@
-# Python-Daily-Warm-up
-# Beginner Warmup Challenges
-# This
+# Beginner Python-Daily-Warm-up challenge (Arthmitic, print, index, slice)
